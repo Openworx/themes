@@ -100,3 +100,16 @@
 .openerp .oe_form_sheet_width {
     max-width: 90%;
 }
+
+// Explorer 11 fix to use fullscreen
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+
+	.oe-view-manager-view-kanban, .oe-view-manager-view-form, .oe-view-manager-view-list, .oe-view-manager-view-calendar, .oe-view-manager-view-pivot, .oe-view-manager-view-graph {
+        width: 100% !important;
+	}
+}
+
+
+
+
