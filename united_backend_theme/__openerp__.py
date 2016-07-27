@@ -9,7 +9,7 @@
 Give Odoo 9 community version a cleaner theme, based on Bootstrap Unity template. The theme has also some css fixes for Microsoft Explorer 11.
     """,
     'images':[
-        'static/description/sales.png'
+        'images/sales.png'
     ],
     'depends' : ['base'],
     'data':[
