@@ -1,5 +1,5 @@
 {
-    'name' : 'United based backend theme for Odoo 9c',
+    'name' : 'United Backend Theme for Odoo 9c',
     'version' : '0.2',
     'author' : 'Openworx',
     'category' : 'Website',
