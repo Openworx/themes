@@ -1,6 +1,6 @@
 {
     'name' : 'United Backend Theme for Odoo 9c',
-    'version' : '0.2',
+    'version' : '0.3',
     'author' : 'Openworx',
     'category' : 'Website',
     'summary': 'Give Odoo 9 community version a cleaner backend theme',
